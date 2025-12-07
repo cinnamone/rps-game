@@ -1,1 +1,1 @@
-# Rock Paper Scissors Game (React & Basic CSS)
+Rock Paper Scissors Game (React & Basic CSS)
